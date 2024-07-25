@@ -1,0 +1,30 @@
+#main {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .question-para {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .answer-input-box {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .submit-btn {
+    background-color: rgb(12, 111, 240);
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  
+  .result-para {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
