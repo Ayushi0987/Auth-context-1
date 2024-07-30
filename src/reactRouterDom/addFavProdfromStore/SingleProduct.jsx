@@ -24,7 +24,7 @@ export default function SingleProduct() {
       const productId = params.id;
       getSingleProduct(productId)
     },[])
-  return (
+    return (
     <div className='single-product-component'>
       <h2>Single Products ID: </h2>
       {

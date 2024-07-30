@@ -18,10 +18,18 @@ import ReactDOM from 'react-dom/client'
 // import App from './validateForm/App';
 // import App from './crypto/App';
 // import App from './classBasedComponents/App'
+// import App from './privateRoutes/App';
+// import App from './useReducer/App'
+// import App from './contextAPI/App'
+// import App from './contextAPI2/App';
+// import App from './axios/AxiosComponent'
+
+
+
 
  const root = ReactDOM.createRoot(document.getElementById('root'));
   root.render(
       // <React.StrictMode>
-    <App studying='class' />
+    <App />
   // </React.StrictMode>,
 );
