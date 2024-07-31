@@ -23,8 +23,9 @@ import ReactDOM from 'react-dom/client'
 // import App from './contextAPI/App'
 // import App from './contextAPI2/App';
 // import App from './axios/AxiosComponent'
-import App from './themeToggler/App';
-
+// import App from './themeToggler/App';
+// import App from './propChange/App';
+import App from './classContext/App';
 
 
  const root = ReactDOM.createRoot(document.getElementById('root'));
